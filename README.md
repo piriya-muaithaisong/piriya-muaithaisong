@@ -4,15 +4,12 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=1200&height=250&lines=Just+a+Random+Ethical+Hacker;Computer+Science+Enthusiast;Coding+Wizard+🧙‍♂️" alt="Typing SVG" /></a>
   </p>
 
-
-
 - 👨‍💻 Penetration tester at **MAYASEVEN**
 - 🎲 Playing **CTF** and **Competitive Programing** when I'm not busy saving the world (or the internet)
 - 😾 Always waste my time on cute cat videos
 - 🌱 I’m currently learning **Deep Learning, Reverse Engineering**
 - 💬 Ask me about **Holy Spirit**, **Quantum Physics**, and **FAT CAT**
 - 📫 How to reach me **https://github.com/piriya-muaithaisong**
-
 - ⚡ Fun fact: You are always looking at your nose, your brain just chooses to ignore it
 
 
