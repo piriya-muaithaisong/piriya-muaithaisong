@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piriya Muaithaisong</h1>
 
 <p  align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=1200&height=250&lines=Ethical+Hacker;Developer;PWN%2FWeb+CTF+player" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=1200&height=250&lines=Certified+Ethical+Hacker;Computer-Science+Enthusiast;PWN%2FWeb+CTF+player;Coding+Wizard+🧙‍♂️" alt="Typing SVG" /></a>
   </p>
+ 
+ 
+<h3 align="left">About Me:</h3>
 
-
--  🔭 I’m currently on a journey to build **great** things
-
+- 👨‍💻 Penetration tester at **MAYASEVEN**
+- 🎲 Playing CTF and Competitive Programing at spare time
 - 🌱 I’m currently learning **Deep Learning, Reverse Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/piriya-muaithaisong](https://github.com/piriya-muaithaisong)
-
 - 💬 Ask me about **anything!**
-
 - 📫 How to reach me **https://github.com/piriya-muaithaisong**
-
-- 🔭 I’m currently on a journey to build **great** things
-
 - ⚡ Fun fact: You are always looking at your nose, your brain just chooses to ignore it.
 
 
