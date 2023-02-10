@@ -7,21 +7,11 @@
 
 
 - 👨‍💻 Penetration tester at **MAYASEVEN**
-
 - 🎲 Playing **CTF** and **Competitive Programing** when I'm not busy saving the world (or the internet)
-
-
 - 😾 Always waste my time on cute cat videos
-
-
 - 🌱 I’m currently learning **Deep Learning, Reverse Engineering**
-
-
 - 💬 Ask me about **Holy Spirit**, **Quantum Physics**, and **FAT CAT**
-
-
 - 📫 How to reach me **https://github.com/piriya-muaithaisong**
-
 
 - ⚡ Fun fact: You are always looking at your nose, your brain just chooses to ignore it
 
