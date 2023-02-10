@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piriya Muaithaisong</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=600&height=100&lines=Ethical+Hacker;Developer;PWN%2FWeb+CTF+player" alt="Typing SVG" /></a>
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=17B317&background=ffffff&center=true&vCenter=true&width=600&height=100&lines=Ethical+Hacker;Developer;PWN%2FWeb+CTF+player" alt="Typing SVG" /></a>
 
 
 -  🔭 I’m currently on a journey to build **great** things
