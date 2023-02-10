@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Piriya Muaithaisong</h1>
 
 <p  align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=1200&height=250&lines=Just+a+Random+Ethical+Hacker+Guy;Computer+Science+Enthusiast;Coding+Wizard+🧙‍♂️" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=17B317&background=000000&center=true&vCenter=true&width=1200&height=250&lines=Just+a+Random+\"Ethical\"+Hacker+Guy;Computer+Science+Enthusiast;Coding+Wizard+🧙‍♂️" alt="Typing SVG" /></a>
   </p>
 
-
+- 
 - 👨‍💻 Penetration tester at **MAYASEVEN**
-- 🎲 Playing CTF and Competitive Programing at spare time
+- 🎲 Playing CTF and Competitive Programing when I'm not busy saving the world (or the internet)
+- 😾 Always waste my time on cute cat videos
 - 🌱 I’m currently learning **Deep Learning, Reverse Engineering**
 - 💬 Ask me about **anything!**
 - 📫 How to reach me **https://github.com/piriya-muaithaisong**
-- ⚡ Fun fact: You are always looking at your nose, your brain just chooses to ignore it.
+- ⚡ Fun fact: You are always looking at your nose, your brain just chooses to ignore it
 
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
