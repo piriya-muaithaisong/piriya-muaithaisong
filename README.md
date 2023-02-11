@@ -17,7 +17,7 @@
 
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
-![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScrip&logoColor=white&style=flat)
+![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
 ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white&style=flat)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?logo=Express&logoColor=white&style=flat)
