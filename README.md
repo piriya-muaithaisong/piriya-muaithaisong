@@ -49,7 +49,7 @@
 
 <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Github Stats </h2>
 
-<p>
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=piriya-muaithaisong&show_icons=true&theme=onedark" alt="piriya-muaithaisong" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piriya-muaithaisong&show_icons=true&locale=en&layout=compact&theme=onedark" alt="piriya-muaithaisong" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=piriya-muaithaisong&show_icons=true&theme=onedark" alt="piriya-muaithaisong" />
-</p>
+</div>
