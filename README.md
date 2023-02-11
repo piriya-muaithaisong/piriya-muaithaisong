@@ -51,7 +51,7 @@
 
 ![Piriya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piriya-muaithaisong&show_icons=true&locale=en&layout=compact&theme=onedark)
 
-![Piriya's Top lang](https://github-readme-stats.vercel.app/api?username=piriya-muaithaisong&show_icons=true&theme=onedark" alt="piriya-muaithaisong)
+![Piriya's Top lang](https://github-readme-stats.vercel.app/api?username=piriya-muaithaisong&show_icons=true&theme=onedark")
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piriya-muaithaisong&show_icons=true&locale=en&layout=compact&theme=onedark" alt="piriya-muaithaisong" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=piriya-muaithaisong&show_icons=true&theme=onedark" alt="piriya-muaithaisong" /></p>
