@@ -15,7 +15,6 @@
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Skills </h2>
 
-<p>
 ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![go](https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white&style=flat)
 ![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScrip&logoColor=white&style=flat)
@@ -46,7 +45,6 @@
 ![opencv](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white&style=flat)
 ![owasp](https://img.shields.io/badge/-OWASP-000000?logo=OWASP&logoColor=white&style=flat)
 ![postman](https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=flat)
-</p>
 
 
  <h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Github Stats </h2>
